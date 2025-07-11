@@ -334,8 +334,16 @@
    */
   "projects": [
     {
-      "packageName": "",
-      "projectFolder": ""
+      "packageName": "customers",
+      "projectFolder": "apps/customers"
+    }, 
+        {
+      "packageName": "finance",
+      "projectFolder": "apps/finance"
+    }, 
+    {
+      "packageName": "shop",
+      "projectFolder": "apps/shop"
     }
   ]
 }
